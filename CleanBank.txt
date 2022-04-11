@@ -1,0 +1,5 @@
+## Title: Clean Bank
+## APIVersion: 100025
+## DependsOn: LibResearch>=042
+
+CleanBank.lua
